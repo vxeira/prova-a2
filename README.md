@@ -52,4 +52,4 @@ Repositório: [github.com/vxeira/prova-a2](https://github.com/vxeira/prova-a2)
 
 ## Licença
 
-Uso educacional / prova acadêmica — ajuste conforme a política da sua instituição.
+Uso educacional / prova acadêmica —
